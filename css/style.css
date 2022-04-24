@@ -147,4 +147,8 @@ p {
     text-shadow: 2px 2px white;
 }
 
+.row.section.foot {
+    padding: 1%;
+}
+
 
